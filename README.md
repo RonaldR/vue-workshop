@@ -1,6 +1,6 @@
 # vue-workshop
 
-https://slides.com/ronaldr/vue-js/live#/ . 
+https://slides.com/ronaldr/vue-js#/  
 
 ## 1. start with the exercises
 
