@@ -9,7 +9,7 @@
         <p>You either see me ...</p>
         <p>...or me</p>
     </div>
-    <!-- 2) Output an <ul> of array elements of your choice. Also print the index of each element. -->
+    <!-- 2) Output an <ul> of array elements. Also print the index of each element. -->
     <ul>
         <li></li>
     </ul>
@@ -27,7 +27,8 @@
     new Vue({
         el: '#exercise',
         data: {
-            array: ['VueJS', 'React', 'Preact', 'AngularJS', 'Angular 6'],
+            isShown: true,
+            frameworks: ['VueJS', 'React', 'Preact', 'AngularJS', 'Angular 6'],
             myObject: {
                 title: 'VueJs',
                 subTitle: 'Workshop'
