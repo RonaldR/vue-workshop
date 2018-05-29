@@ -3,7 +3,7 @@
 https://slides.com/ronaldr/vue-js#/  
 
 ## 1. start with the exercises. 
-You could checkout this git repo or copy paste it in JSFiddle
+You could clone this git repo or copy paste it in JSFiddle
 
 ## 2. check readme in /assignment
 
